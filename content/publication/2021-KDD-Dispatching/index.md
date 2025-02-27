@@ -47,7 +47,7 @@ tags:
 featured: true
 
 # 相关链接，如有则填写，没有则留空
-url_pdf: "KDD2021.pdf"
+url_pdf: "https://github.com/marco-yue/theme-academic-cv/blob/main/content/publication/2021-KDD-Dispatching/KDD2021.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""

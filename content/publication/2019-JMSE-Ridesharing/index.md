@@ -18,7 +18,7 @@ tags:
 featured: false
 
 
-url_pdf: ""
+url_pdf: "JMSE-2020.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
