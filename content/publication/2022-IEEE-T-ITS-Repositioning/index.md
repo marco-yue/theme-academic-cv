@@ -20,8 +20,6 @@ publication_short: ""
 # DOI，如果没有可留空
 doi: ""
 
-citation: "**Yue Yang**, Seeun William Umboh, Mohsen Ramezani (2024). Freelance drivers with a decline choice: Dispatch menus in on-demand mobility services for assortment optimization. *Transportation Research Part B: Methodological*, 190."
-
 # 摘要与简介
 abstract: "Internet-based e-hailing services have become a major component of urban transportation systems in recent years. The spatio-temporal mismatch between supply (available vehicles) and demand (passenger requests) deteriorates e-hailing platforms’ performance. Hence, repositioning available vehicles can be productive. In this paper, we propose a real-time repositioning method in ride-sourcing systems that considers both the responsiveness to immediate demand and the long-term (i.e., several hours) operational efficiency simultaneously. The proposed approach integrates the solutions of two procedures: i) a single-agent Markov Decision Process (MDP) model to evaluate the long-term influence of the repositioning on platform efficiency and ii) a binary linear program (BLP) to tackle the multi-driver repositioning problem in real-time taking into account the elapsed time of each not-responded order. Numerical experiments using real-world demand data with impatient passengers and contractors (i.e., drivers) demonstrate that the proposed method outperforms several repositioning benchmarks with regard to platform efficiency, e.g., reducing order cancellations, passengers’ experience, e.g., reducing waiting times, and drivers’ gains, e.g., increasing occupied rates."
 summary: "Short summary of your paper..."
