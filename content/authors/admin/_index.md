@@ -44,6 +44,7 @@ interests:
   - Shared Mobility
   - Discrete Choice Models
   - Large Language Models
+  - Reinforcement Learning
 
 education:
   - area: PhD Transportation Engineering
