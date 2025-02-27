@@ -35,7 +35,7 @@ sections:
     design:
       columns: "1"
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['6rem', '0', '6rem', '0']
 
   - block: collection
     id: news
