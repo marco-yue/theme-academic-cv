@@ -31,12 +31,9 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |-
-        I am a postdoctoral research fellow at NYU Abu Dhabi, dedicated to reimagining urban mobility. My mission is to harness innovative research and advanced analytics to revolutionize shared and on-demand transportation, connected vehicles, and autonomous systems. I combine qualitative and quantitative approaches to uncover insights that drive smarter, more sustainable transport solutions, and I share my discoveries through my blog. Please feel free to reach out to collaborate 😃
+        I am a postdoctoral research fellow at NYU Abu Dhabi, dedicated to reimagining urban mobility. My mission is to harness innovative research and advanced analytics to revolutionize shared and on-demand transportation, connected vehicles, and autonomous systems. I combine qualitative and quantitative approaches to uncover insights that drive smarter, more sustainable transport solutions, and I share my discoveries through my blog. <br> Please feel free to reach out to collaborate 😃
     design:
       columns: "1"
-      spacing:
-        padding: ['10px', '0', '10px', '0']
-        margin: ['0', '0', '0', '0']
 
   - block: collection
     id: news
