@@ -18,7 +18,7 @@ tags:
 featured: false
 
 
-url_pdf: "JMSE-2020.pdf"
+url_pdf: "https://github.com/marco-yue/theme-academic-cv/blob/main/content/publication/2019-JMSE-Ridesharing/JMSE-2020.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
