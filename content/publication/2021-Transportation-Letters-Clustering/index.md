@@ -2,7 +2,7 @@
 title: "An empirical study on characteristics of supply in e-hailing markets: a clustering approach"
 authors:
 - "Mohsen Ramezani"
-- "**Yue Yang**"
+- "Yue Yang"
 - "Jacob Elmasry"
 - "Porsiem Tang"
 date: "2023-01-01T00:00:00Z"
