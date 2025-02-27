@@ -41,22 +41,20 @@ summary: "Short summary or highlight of your paper..."
 
 # 标签，可根据实际需要添加或修改
 tags:
-  - "Large Language Models"
-  - "KDD"
   - "Mobility-on-Demand"
 
 # 是否在 Publications 或主页中突出显示
 featured: true
 
 # 相关链接，如有则填写，没有则留空
-url_pdf: ""
-url_code: "https://github.com/HugoBlox/hugo-blox-builder"
-url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
+url_pdf: "KDD2021.pdf"
+url_code: ""
+url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://github.com/HugoBlox/hugo-blox-builder"
-url_video: "https://youtube.com"
+url_source: ""
+url_video: ""
 
 # 如果在同文件夹放置了 featured.jpg 或 featured.png，就能用作封面图
 image:
