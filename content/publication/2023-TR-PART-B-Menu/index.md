@@ -1,7 +1,7 @@
 ---
 title: "Freelance drivers with a decline choice: Dispatch menus in on-demand mobility services for assortment optimization"
 authors:
-- "Yue Yang"
+- "**Yue Yang**"
 - "Seeun William Umboh"
 - "Mohsen Ramezani"
 date: "2024-01-01T00:00:00Z"
@@ -23,7 +23,7 @@ url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=rmY6w9uZisQ"
 image:
   caption: ""
   focal_point: ""
