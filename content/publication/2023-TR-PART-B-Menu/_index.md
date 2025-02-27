@@ -1,44 +1,38 @@
 ---
-title: "Freelance drivers with a decline choice: Dispatch menus in on-demand mobility services for assortment optimization"
-
-# 作者列表（从 BibTeX 中提取）
+title: "A learning method for real-time repositioning in E-hailing services"
 authors:
-  - "Yue Yang"
-  - "Seeun William Umboh"
-  - "Mohsen Ramezani"
+- "Yue Yang"
+- "Mohsen Ramezani"
+date: "2022-02-01T00:00:00Z"
+# 此 date 通常指论文实际发表或写作日期
+publishDate: "2022-02-01T00:00:00Z"
+# publishDate 指页面何时在你的网站上公开
 
-# 页面/论文发布日期（可根据实际需要进行调整）
-
-date: "2024-01-01T00:00:00Z"
-
-publishDate: "2024-01-01T00:00:00Z"
-
-# 论文类型 - 期刊文章
+# 告诉主题这是一个期刊文章
 publication_types: ["article-journal"]
+# 旧版 Academic 主题常用 ["2"] 表示 Journal Article，新版 Wowchemy 也兼容 ["article-journal"]
 
-# 期刊信息
-publication: "Transportation Research Part B: Methodological, 190, pp.103082"
-
-# 如果需要简写，可以在这里写 publication_short，否则可留空
+# 期刊或会议名称
+publication: "IEEE Transactions on Intelligent Transportation Systems, 24(2)"
+# 若有简写可放在 publication_short，也可留空
 publication_short: ""
 
-# 摘要（可自行修改、扩展）
-abstract: "In this paper, we explore how freelance drivers, equipped with a decline choice, can optimize dispatch menus in on-demand mobility services to improve overall assortment and efficiency."
+# DOI，如果没有可留空
+doi: "10.1109/TITS.2022.3145628"
 
-# 简要摘要或总结
-summary: "We propose a method to optimize dispatch menus for freelance drivers with a decline choice in on-demand mobility services."
+# 摘要与简介
+abstract: "Internet-based e-hailing services have become a major component of urban transportation systems in recent years. The spatio-temporal mismatch between supply (available vehicles) and demand (passenger requests) deteriorates e-hailing platforms’ performance. Hence, repositioning available vehicles can be productive. In this paper, we propose a real-time repositioning method in ride-sourcing systems that considers both the responsiveness to immediate demand and the long-term (i.e., several hours) operational efficiency simultaneously. The proposed approach integrates the solutions of two procedures: i) a single-agent Markov Decision Process (MDP) model to evaluate the long-term influence of the repositioning on platform efficiency and ii) a binary linear program (BLP) to tackle the multi-driver repositioning problem in real-time taking into account the elapsed time of each not-responded order. Numerical experiments using real-world demand data with impatient passengers and contractors (i.e., drivers) demonstrate that the proposed method outperforms several repositioning benchmarks with regard to platform efficiency, e.g., reducing order cancellations, passengers’ experience, e.g., reducing waiting times, and drivers’ gains, e.g., increasing occupied rates."
 
-# 标签，可根据需要添加
+# 文章标签
 tags:
-  - "On-demand Mobility"
-  - "Freelance Drivers"
-  - "Assortment Optimization"
+- "E-hailing"
+- "Transportation"
 
-# 是否在 Publications 或首页中突出显示
+# 是否在主页或列表中突出显示
 featured: false
 
-# 链接：若需要，可填写 PDF、代码、数据集等
-url_pdf: ""
+# 链接：PDF、代码、数据集、海报、Slides等，如不需要可留空
+url_pdf: "https://transportlab.sydney.edu.au/wp-content/uploads/2022/11/YY-MR-T-ITS2022.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -47,9 +41,16 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
-# 如果在同目录放置了 featured.jpg 或 featured.png，可用作封面图
+# 若需要设置封面图，请在同目录放置 featured.jpg 或 featured.png，并在这里指定
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+
+# 如果要与其他项目关联，可在此添加
+projects: []
+
+# 如果有对应的 slides，可在 content/slides/ 目录下创建 slides.md，然后这里引用文件夹名称
+slides: ""
+
 ---
