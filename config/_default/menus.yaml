@@ -17,7 +17,7 @@ main:
     url: projects/
     weight: 13
   - name: Academic Services
-    url: /#talks
+    url: academic_services/
     weight: 14
   - name: Data Sharing
     url: experience/
