@@ -60,10 +60,12 @@ education:
     institution: Beihang University
     date_start: 2017-09-10
     date_end: 2020-01-10
+    summary:
   - area: BSc Logistics Engineering
     institution: University of Science and Technology Beijing
     date_start: 2012-09-01
     date_end: 2016-06-20
+    summary:
 work:
   - position: Journal Reviewer
     summary: |2-
