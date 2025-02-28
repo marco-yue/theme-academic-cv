@@ -73,7 +73,6 @@ work:
     company_url: ''
     company_logo: ''
     date_start: ''
-    date_end: ''
     summary: | 2-
      - Transportation Research Part A
      - Transportation Research Part C
@@ -85,7 +84,6 @@ work:
     company_url: ''
     company_logo: ''
     date_start: ''
-    date_end: ''
     summary: | 2-
      - Australasian Transport Research Forum (ATRF) Conference
      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
