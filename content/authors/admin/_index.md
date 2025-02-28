@@ -73,21 +73,22 @@ work:
     company_url: ''
     company_logo: ''
     date_start: ''
-    summary: |2-
-     - Transportation Research Part A
-     - Transportation Research Part C
-     - Transportmetrica B
-     - IET Intelligent Transport Systems
-     - Transportation Letters
+    summary: |-
+      - Transportation Research Part A
+      - Transportation Research Part C
+      - Transportmetrica B
+      - IET Intelligent Transport Systems
+      - Transportation Letters
   - position: Conference Reviewer
     company_name: ''
     company_url: ''
     company_logo: ''
     date_start: ''
-    summary: |2-
-     - Australasian Transport Research Forum (ATRF) Conference
-     - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
-     - Symposium of the European Association for Research in Transportation (hEART)
+    summary: |-
+      - Australasian Transport Research Forum (ATRF) Conference
+      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
+      - Symposium of the European Association for Research in Transportation (hEART)
+
 ---
 
 ## About Me
