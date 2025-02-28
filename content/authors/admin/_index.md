@@ -66,16 +66,17 @@ education:
     date_start: 2012-09-01
     date_end: 2016-06-20
     summary:
+    
 work:
   - position: Journal Reviewer
-    summary: |2-
+    summary: | 2-
      - Transportation Research Part A
      - Transportation Research Part C
      - Transportmetrica B
      - IET Intelligent Transport Systems
      - Transportation Letters
   - position: Conference Reviewer
-    summary: |2-
+    summary: | 2-
      - Australasian Transport Research Forum (ATRF) Conference
      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
      - Symposium of the European Association for Research in Transportation (hEART)
