@@ -5,5 +5,4 @@ type: landing
 
 design:
   spacing: '5rem'
-
 ---
