@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Research Papers
-    url: /#papers
+    url: publication/
     weight: 11
   - name: News
     url: /#news
