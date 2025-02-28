@@ -62,8 +62,9 @@ sections:
     
   - block: collection
     content:
-      title: Publications
+      title: Recent Papers
       text: ""
+      count: 3
       filters:
         folders:
           - publication
