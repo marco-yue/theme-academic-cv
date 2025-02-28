@@ -43,7 +43,7 @@ sections:
       title: Recent News
       subtitle: ""
       text: ""
-      page_type: news
+      page_type: post
       count: 1
       filters:
         author: ""
