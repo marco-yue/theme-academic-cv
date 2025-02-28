@@ -69,6 +69,11 @@ education:
     
 work:
   - position: Journal Reviewer
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: ''
+    date_end: ''
     summary: | 2-
      - Transportation Research Part A
      - Transportation Research Part C
@@ -76,6 +81,11 @@ work:
      - IET Intelligent Transport Systems
      - Transportation Letters
   - position: Conference Reviewer
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: ''
+    date_end: ''
     summary: | 2-
      - Australasian Transport Research Forum (ATRF) Conference
      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
