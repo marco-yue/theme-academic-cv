@@ -73,7 +73,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: ''
-    summary: | 2-
+    summary: |2-
      - Transportation Research Part A
      - Transportation Research Part C
      - Transportmetrica B
@@ -84,7 +84,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: ''
-    summary: | 2-
+    summary: |2-
      - Australasian Transport Research Forum (ATRF) Conference
      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
      - Symposium of the European Association for Research in Transportation (hEART)
