@@ -12,16 +12,16 @@ main:
     weight: 11
   - name: News
     url: /#news
-    weight: 13
+    weight: 12
   - name: Projects
     url: projects/
-    weight: 30
+    weight: 13
   - name: Academic Services
     url: /#talks
-    weight: 12
+    weight: 14
   - name: Data Sharing
     url: experience/
-    weight: 20
+    weight: 15
   - name: Teaching
     url: teaching/
-    weight: 40
+    weight: 16
