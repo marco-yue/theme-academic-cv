@@ -4,6 +4,8 @@ summary: Use the ChatGPT API to control agents
 date: 2025-03-03
 type: docs
 math: false
+authors:
+  - Yue Yang
 tags:
   - JavaScript
 image:
