@@ -146,5 +146,20 @@ Below is the experiment using the CartPole environment under two different polic
 
 {{< figure src="policy_comparison_cartpole.png" id="hello">}}
 
+As illustrated in the figure, using ChatGPT for control tasks is slower and often yield worse performance than a random policy.
+
 ### Conclusion
+
+In this work, we explored using the ChatGPT API to control a virtual agent in a simulated environment, specifically the CartPole-v1 gym environment. We demonstrated how to convert the environment's state into a text prompt, use ChatGPT to generate an action recommendation, and interpret the output to drive the simulation. Our experiments compared the GPT-driven policy to a random policy, revealing that ChatGPT is considerably slower and often less effective.
+
+
+There are a few key reasons why using ChatGPT for control tasks can be slower and often yield worse performance than a random policy:
+
+- **Network Latency and Overhead**:ChatGPT requires a network call for every decision, which introduces significant latency compared to a local, instantaneous random action selection.
+
+- **Not Designed for Real-Time Control**: ChatGPT is optimized for natural language generation rather than real-time decision making. It lacks the fine-tuned control strategies that are developed by dedicated reinforcement learning or control algorithms.
+
+- **Suboptimal Prompts and Interpretation**:The textual prompts may not capture all the nuances of the environment state, and ChatGPT might not reliably generate the optimal control action. In contrast, a random policy, while not intelligent, acts immediately without the complexities of language interpretation.
+
+- **Complexity Mismatch**: Virtual control tasks like balancing the CartPole require quick, precise responses. ChatGPT’s high-level, language-based reasoning isn't structured to handle such rapid and exact control loops, sometimes leading to worse performance in terms of cumulative rewards.
 

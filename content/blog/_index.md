@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Blog
 summary: My courses
 type: landing
 
