@@ -140,11 +140,11 @@ if __name__ == '__main__':
 ```
 **Result**
 
-{{</* video src="example.mp4" controls="yes" */>}}
+{{< video src="example.mp4" controls="yes">}}
 
 Below is the experiment using the CartPole environment under two different policies—one using GPT-based decision making and the other selecting random actions. The script runs a few episodes with each method, collects total rewards and average decision-making times per step, and finally plots a bar chart comparing both policies.
 
-{{< figure src="policy_comparison_cartpole.png" id="hello" >}}
+{{< figure src="policy_comparison_cartpole.png" id="hello">}}
 
 ### Conclusion
 
