@@ -7,7 +7,7 @@ math: false
 authors:
   - Yue Yang
 tags:
-  - JavaScript
+  - LLM
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
