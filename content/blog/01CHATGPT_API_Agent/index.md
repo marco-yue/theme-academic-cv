@@ -60,7 +60,32 @@ Robotics control often requires precise, real-time responses with low latency, s
 
 ### Example of CartPole environment
 
-You can integrate the GPT API with a Gym environment by setting up an interface that translates the environment’s state into a textual prompt and then interprets the model’s output as an action.
+The **CartPole environment** is a classic benchmark in reinforcement learning and control theory. It simulates a simple yet challenging problem: balancing a pole on a cart.
+
+{{< figure src="CartPole.png" id="CartPole">}}
+
+**Setup:**  
+A pole is attached to a cart via a hinge, and the cart can move left or right along a track.
+
+**State Variables:**  
+- **Cart's Position:** The location of the cart on the track.  
+- **Cart's Velocity:** The speed at which the cart is moving.  
+- **Pole's Angle:** The angle of the pole relative to the vertical.  
+- **Pole's Angular Velocity:** The rate at which the pole's angle is changing.
+
+**Actions:**  
+Typically, the agent can take one of two actions:
+- Apply a force to move the cart **left**
+- Apply a force to move the cart **right**
+
+**Objective:**  
+The goal is to keep the pole balanced upright for as long as possible. The agent usually receives a reward (often +1) for each time step that the pole remains balanced.
+
+**Dynamics:**  
+The environment is challenging due to its unstable dynamics. Even a small deviation in the pole’s angle can lead to a fall, requiring quick and accurate adjustments by the agent.
+
+
+You can then integrate the GPT API with a Gym environment by setting up an interface that translates the environment’s state into a textual prompt and then interprets the model’s output as an action.
 
 - **State Representation**: Convert the current state (observations) of your Gym environment into a text description.
 
@@ -146,7 +171,7 @@ if __name__ == '__main__':
 
 Below is the experiment using the CartPole environment under two different policies—one using GPT-based decision making and the other selecting random actions. The script runs a few episodes with each method, collects total rewards and average decision-making times per step, and finally plots a bar chart comparing both policies.
 
-{{< figure src="policy_comparison_cartpole.png" id="hello">}}
+{{< figure src="policy_comparison_cartpole.png" id="policy_comparison_cartpole">}}
 
 As illustrated in the figure, using ChatGPT 3.5-turbo for control tasks is slower and often yield worse performance than a random policy.
 
