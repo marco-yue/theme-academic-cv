@@ -1,5 +1,5 @@
 ---
-title: How do we use chatgpt to controll virtual agents?
+title: How do we use chatgpt 3.5-turbo to controll virtual agents?
 summary: Use the ChatGPT API to control agents
 date: 2025-03-03
 type: docs
@@ -148,11 +148,11 @@ Below is the experiment using the CartPole environment under two different polic
 
 {{< figure src="policy_comparison_cartpole.png" id="hello">}}
 
-As illustrated in the figure, using ChatGPT for control tasks is slower and often yield worse performance than a random policy.
+As illustrated in the figure, using ChatGPT 3.5-turbo for control tasks is slower and often yield worse performance than a random policy.
 
 ### Conclusion
 
-In this work, we explored using the ChatGPT API to control a virtual agent in a simulated environment, specifically the CartPole-v1 gym environment. We demonstrated how to convert the environment's state into a text prompt, use ChatGPT to generate an action recommendation, and interpret the output to drive the simulation. Our experiments compared the GPT-driven policy to a random policy, revealing that ChatGPT is considerably slower and often less effective.
+In this work, we explored using the ChatGPT API to control a virtual agent in a simulated environment, specifically the CartPole-v1 gym environment. We demonstrated how to convert the environment's state into a text prompt, use ChatGPT to generate an action recommendation, and interpret the output to drive the simulation. Our experiments compared the GPT-driven policy to a random policy, revealing that ChatGPT 3.5-turbo is considerably slower and often less effective.
 
 
 There are a few key reasons why using ChatGPT for control tasks can be slower and often yield worse performance than a random policy:
