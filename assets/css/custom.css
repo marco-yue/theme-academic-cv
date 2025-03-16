@@ -1,0 +1,4 @@
+#visitor-map-container img {
+  width: 80%; /* 占满容器宽度 */
+  height: auto; /* 自动调整高度以保持比例 */
+}
