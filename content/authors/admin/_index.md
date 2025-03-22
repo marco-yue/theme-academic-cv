@@ -42,12 +42,11 @@ profiles:
 
 interests:
   - Shared Mobility
-  - Discrete Choice Models
-  - Large Language Models
-  - Reinforcement Learning
+  - Automated vehicles
+  - LLM Agents
 
 education:
-  - area: PhD Transportation (Operation Research)
+  - area: PhD Transportation
     institution: The University of Sydney
     date_start: 2021-03-11
     date_end: 2024-09-21
@@ -56,7 +55,7 @@ education:
     button:
       text: 'Read Thesis'
       url: https://ses.library.usyd.edu.au/handle/2123/33446
-  - area: MEng Transportation (Operation Research)
+  - area: MEng Transportation
     institution: Beihang University
     date_start: 2017-09-10
     date_end: 2020-01-10
