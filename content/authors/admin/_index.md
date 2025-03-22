@@ -47,7 +47,7 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: PhD Transportation Engineering
+  - area: PhD Transportation (Operation Research)
     institution: The University of Sydney
     date_start: 2021-03-11
     date_end: 2024-09-21
@@ -56,7 +56,7 @@ education:
     button:
       text: 'Read Thesis'
       url: https://ses.library.usyd.edu.au/handle/2123/33446
-  - area: MEng Transportation Engineering
+  - area: MEng Transportation (Operation Research)
     institution: Beihang University
     date_start: 2017-09-10
     date_end: 2020-01-10
@@ -85,9 +85,9 @@ work:
     company_logo: ''
     date_start: ''
     summary: |-
-      - Australasian Transport Research Forum (ATRF) Conference
-      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)
-      - Symposium of the European Association for Research in Transportation (hEART)
+      - Australasian Transport Research Forum (ATRF) Conference, 2024
+      - International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS), 2023, 2024
+      - Symposium of the European Association for Research in Transportation (hEART), 2022, 2023
 
 ---
 
