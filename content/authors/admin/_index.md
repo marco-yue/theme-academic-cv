@@ -73,10 +73,10 @@ work:
     company_logo: ''
     date_start: ''
     summary: |-
-      - Transportation Research Part A
-      - Transportation Research Part C
-      - Transportmetrica B
+      - Transportation Research Part A/B/C
+      - IEEE Transactions on Intelligent Transportation Systems
       - IET Intelligent Transport Systems
+      - Transportmetrica B
       - Transportation Letters
   - position: Conference Reviewer
     company_name: ''
@@ -92,4 +92,4 @@ work:
 
 ## About Me
 
-Yue Yang is a postdoctoral research fellow at NYU Abu Dhabi, focusing on innovative urban mobility solutions. With a Ph.D. from the University of Sydney, his research in shared transportation, automated vehicles, and discrete choice models aims to create smarter, more efficient transport systems.
+Yue Yang is a postdoctoral researcher at NYU Abu Dhabi, dedicated to research that elevates understanding, inspires progress, and drives innovation.
